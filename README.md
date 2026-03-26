@@ -24,3 +24,7 @@ npm run build
 - Phase 1 includes Supabase Auth + a `profiles.role`-based admin guard scaffold.
 - Create the `profiles` table in Supabase before fully testing `/dashboard` and `/admin`.
 
+## Supabase schema (Phase 1)
+
+See `supabase/migrations/0001_init.sql` and `supabase/README.md` to apply the core DB schema and RLS policies.
+
