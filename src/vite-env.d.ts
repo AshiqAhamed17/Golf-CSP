@@ -1,0 +1,5 @@
+/// <reference types="vite/client" />
+
+
+VITE_SUPABASE_URL=https://rinjsgajgrbyxjuamurv.supabase.co
+VITE_SUPABASE_PUBLISHABLE_DEFAULT_KEY=sb_publishable_y8O7gPcLc4BqnwuOo0iKvw_960HSC_a

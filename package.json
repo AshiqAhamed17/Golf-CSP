@@ -1,0 +1,38 @@
+{
+  "name": "golf-csp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5173"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshiqAhamed17/Golf-CSP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/AshiqAhamed17/Golf-CSP/issues"
+  },
+  "homepage": "https://github.com/AshiqAhamed17/Golf-CSP#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.100.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.2"
+  }
+}
